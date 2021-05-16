@@ -3,7 +3,7 @@ gunicorn
 numpy
 pandas
 scikit-learn
-xgboost>=0.90
+xgboost==0.90
 itsdangerous==1.1.0
 MarkupSafe==1.1.1
 Werkzeug
